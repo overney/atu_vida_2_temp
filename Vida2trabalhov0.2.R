@@ -207,4 +207,4 @@ AnuidadeReversaoXY=(anuidadeY-Vidasconjuntas)*coefreversao #de X para Y
 AnuidadeReversaoYX=(anuidadeX-Vidasconjuntas)*coefreversao #de Y para X
 
 #calculo 3 vidas
-anuidadeVit=valorfacebene*tresvidas[1,7]/tresvidas[1,6]
+anuidadeVitao=valorfacebene*tresvidas[1,7]/tresvidas[1,6]
